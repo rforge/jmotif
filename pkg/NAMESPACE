@@ -1,0 +1,13 @@
+## methods
+export(znorm)
+export(paa)
+export(alphabet2cuts)
+export(sax_distance_matrix)
+export(idx2letter)
+export(letter2idx)
+export(letters2idx)
+export(ts2string)
+export(min_dist)
+
+## base packages
+importFrom("matlab", reshape)
